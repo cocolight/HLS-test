@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+media_cache/
+tools/ffmpeg/
+# local agent state / dev memory (never publish)
+.workbuddy/
+# user-provided sample video (only the README is tracked)
+tools/sample/*
+!tools/sample/README.md
